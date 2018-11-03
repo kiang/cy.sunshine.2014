@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 4.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "/home/kiang/public_html/cy.sunshine.2014/raw/3003_002.jpg"; bbox 0 0 1240 1753; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 115 930 158">
+    <p class='ocr_par' id='par_1_1' lang='chi_tra' title="bbox 332 115 930 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 115 930 138; baseline 0.008 -5; x_size 24.5; x_descenders 5.5; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 332 116 376 134; x_wconf 93'>政治</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 379 115 402 136; x_wconf 92'>獻</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 405 115 449 136; x_wconf 96'>金</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 453 118 463 134; x_wconf 93'>會</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 462 116 473 137; x_wconf 93'>計</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 476 116 522 136; x_wconf 93'>報</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 0 0 1240 1753; x_wconf 93'>告</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 526 115 545 137; x_wconf 93'>畫</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 550 115 610 137; x_wconf 78'>查閱</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 611 116 641 137; x_wconf 95'>制度</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 646 117 689 137; x_wconf 96'>電腦</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 695 116 711 138; x_wconf 92'>系</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 716 118 737 137; x_wconf 92'>統</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 742 116 798 137; x_wconf 96'>查詢</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 798 117 833 137; x_wconf 92'>結果</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 838 118 856 137; x_wconf 92'>列</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 862 117 891 138; x_wconf 90'>印</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 890 116 930 138; x_wconf 93'>清單</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 400 140 872 158; baseline 0.002 -1; x_size 22.296295; x_descenders 5.2962961; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_19' title='bbox 400 140 432 157; x_wconf 90'>專</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 0 0 1240 1753; x_wconf 91'>据</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 438 141 483 157; x_wconf 25'>名稱:</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 495 142 519 154; x_wconf 78'>103</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 521 141 537 157; x_wconf 92'>年</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 540 141 574 157; x_wconf 96'>基隆</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 578 142 593 158; x_wconf 96'>市</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 596 141 628 158; x_wconf 93'>議員</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 632 142 649 157; x_wconf 93'>擬</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 652 141 667 158; x_wconf 90'>參</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 670 142 686 158; x_wconf 92'>選</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 688 143 705 156; x_wconf 92'>人</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 709 141 721 158; x_wconf 91'>曾</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 726 142 742 156; x_wconf 92'>紀</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 744 142 761 158; x_wconf 55'>嚴</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 763 142 798 157; x_wconf 89'>政治</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 800 141 817 158; x_wconf 92'>獻</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 820 142 836 157; x_wconf 92'>金</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 839 141 872 158; x_wconf 92'>專</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 0 0 1240 1753; x_wconf 48'>据</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1022 137 1171 149">
+    <p class='ocr_par' id='par_1_2' lang='chi_tra' title="bbox 1022 137 1171 149">
+     <span class='ocr_line' id='line_1_3' title="bbox 1022 137 1171 149; baseline 0.02 -4; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_39' title='bbox 1022 137 1031 149; x_wconf 91'>列</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1035 137 1045 149; x_wconf 91'>印</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1050 137 1072 148; x_wconf 94'>日</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 0 0 1240 1753; x_wconf 92'>期</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1079 140 1081 146; x_wconf 92'>:</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1090 138 1106 147; x_wconf 90'>107</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1108 137 1125 149; x_wconf 93'>年</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1128 138 1134 147; x_wconf 89'>10</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1136 137 1147 149; x_wconf 92'>年</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1151 138 1161 147; x_wconf 93'>16</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1165 139 1171 148; x_wconf 43'>日</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1096 152 1174 164">
+    <p class='ocr_par' id='par_1_3' lang='chi_tra' title="bbox 1096 152 1174 164">
+     <span class='ocr_line' id='line_1_4' title="bbox 1096 152 1174 164; baseline 0.013 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_50' title='bbox 1096 152 1106 161; x_wconf 88'>10</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1108 152 1119 164; x_wconf 67'>蛙</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1121 152 1133 161; x_wconf 54'>52</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1136 152 1146 163; x_wconf 93'>分</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1148 153 1161 162; x_wconf 92'>40</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1162 153 1174 164; x_wconf 89'>秒</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 98 181 1175 189">
+    <p class='ocr_par' id='par_1_4' lang='chi_tra' title="bbox 98 181 1175 189">
+     <span class='ocr_line' id='line_1_5' title="bbox 98 181 1175 189; baseline 0 0; x_size 4; x_descenders -2; x_ascenders 2">
+      <span class='ocrx_word' id='word_1_56' title='bbox 98 181 1175 189; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 98 214 1175 221">
+    <p class='ocr_par' id='par_1_5' lang='chi_tra' title="bbox 98 214 1175 221">
+     <span class='ocr_line' id='line_1_6' title="bbox 98 214 1175 221; baseline 0 0; x_size 3.5; x_descenders -1.75; x_ascenders 1.75">
+      <span class='ocrx_word' id='word_1_57' title='bbox 98 214 1175 221; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 98 243 1175 250">
+    <p class='ocr_par' id='par_1_6' lang='chi_tra' title="bbox 98 243 1175 250">
+     <span class='ocr_line' id='line_1_7' title="bbox 98 243 1175 250; baseline 0 0; x_size 3.5; x_descenders -1.75; x_ascenders 1.75">
+      <span class='ocrx_word' id='word_1_58' title='bbox 98 243 1175 250; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 98 183 100 275">
+    <p class='ocr_par' id='par_1_7' lang='chi_tra' title="bbox 98 183 100 275">
+     <span class='ocr_line' id='line_1_8' title="bbox 98 183 100 275; baseline 0 0; x_size 46; x_descenders -23; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_59' title='bbox 98 183 100 275; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 155 183 157 276">
+    <p class='ocr_par' id='par_1_8' lang='chi_tra' title="bbox 155 183 157 276">
+     <span class='ocr_line' id='line_1_9' title="bbox 155 183 157 276; baseline 0 0; x_size 46.5; x_descenders -23.25; x_ascenders 23.25">
+      <span class='ocrx_word' id='word_1_60' title='bbox 155 183 157 276; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 251 184 254 276">
+    <p class='ocr_par' id='par_1_9' lang='chi_tra' title="bbox 251 184 254 276">
+     <span class='ocr_line' id='line_1_10' title="bbox 251 184 254 276; baseline 0 0; x_size 46; x_descenders -23; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_61' title='bbox 251 184 254 276; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 396 184 399 277">
+    <p class='ocr_par' id='par_1_10' lang='chi_tra' title="bbox 396 184 399 277">
+     <span class='ocr_line' id='line_1_11' title="bbox 396 184 399 277; baseline 0 0; x_size 46.5; x_descenders -23.25; x_ascenders 23.25">
+      <span class='ocrx_word' id='word_1_62' title='bbox 396 184 399 277; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 113 165 1167 273">
+    <p class='ocr_par' id='par_1_11' lang='chi_tra' title="bbox 601 165 1136 185">
+     <span class='ocr_line' id='line_1_12' title="bbox 601 165 1136 185; baseline 0.007 -4; x_size 21.6; x_descenders 5.5999999; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_63' title='bbox 601 165 635 181; x_wconf 56'>首次</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 640 165 672 182; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1038 172 1047 185; x_wconf 96'>第</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1058 173 1060 182; x_wconf 68'>1</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1071 173 1080 185; x_wconf 68'>頁</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1083 173 1091 184; x_wconf 90'>/</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1092 173 1103 185; x_wconf 93'>共</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1114 174 1116 183; x_wconf 80'>1</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1127 173 1136 185; x_wconf 91'>頁</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='chi_tra' title="bbox 113 195 1167 273">
+     <span class='ocr_line' id='line_1_13' title="bbox 113 195 1130 212; baseline 0.003 -3; x_size 19.133333; x_descenders 5.1333332; x_ascenders 3">
+      <span class='ocrx_word' id='word_1_72' title='bbox 113 195 143 209; x_wconf 87'>序號</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 0 0 1240 1753; x_wconf 87'>|</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 175 195 201 209; x_wconf 94'>交易</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 209 195 235 209; x_wconf 96'>日</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 0 0 1240 1753; x_wconf 92'>期</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 294 196 323 210; x_wconf 92'>收</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 0 0 1240 1753; x_wconf 92'>支</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 326 196 353 210; x_wconf 86'>科目</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 486 196 532 211; x_wconf 85'>捐贈</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 0 0 1240 1753; x_wconf 93'>者</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 534 197 543 210; x_wconf 93'>/</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 545 197 572 211; x_wconf 92'>支</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 0 0 1240 1753; x_wconf 96'>出</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 576 197 590 211; x_wconf 93'>對</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 594 197 605 211; x_wconf 86'>象</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 702 198 739 210; x_wconf 92'>身分</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 0 0 1240 1753; x_wconf 90'>證</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 740 199 748 209; x_wconf 92'>/</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 749 199 761 210; x_wconf 66'>統</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 764 203 774 205; x_wconf 94'>一</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 776 199 801 210; x_wconf 45'>編號</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 0 0 1240 1753; x_wconf 89'>|</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 826 198 855 211; x_wconf 89'>收入</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 858 198 888 211; x_wconf 43'>金額</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 0 0 1240 1753; x_wconf 95'>|</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 923 198 950 212; x_wconf 95'>支出</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 954 198 985 211; x_wconf 93'>金</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 0 0 1240 1753; x_wconf 93'>額</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 0 0 1240 1753; x_wconf 90'>|</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1005 198 1019 211; x_wconf 87'>金</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1022 199 1036 212; x_wconf 84'>錢</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1038 199 1052 211; x_wconf 85'>類</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 0 0 1240 1753; x_wconf 93'>|</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1100 199 1114 211; x_wconf 93'>地</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1116 200 1130 211; x_wconf 92'>址</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 126 226 1167 243; baseline 0.004 -4; x_size 17.136364; x_descenders 4.1363635; x_ascenders 4.136364">
+      <span class='ocrx_word' id='word_1_107' title='bbox 126 226 128 237; x_wconf 79'>1</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 169 226 241 239; x_wconf 90'>103/11/06</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 0 0 1240 1753; x_wconf 91'>|</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 270 226 299 240; x_wconf 91'>營利</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 302 226 331 241; x_wconf 96'>事業</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 335 227 364 240; x_wconf 93'>捐贈</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 366 227 380 240; x_wconf 37'>收</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 415 228 428 240; x_wconf 93'>元</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 431 227 444 241; x_wconf 81'>邦</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 446 227 468 241; x_wconf 91'>建</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 468 229 476 240; x_wconf 93'>設</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 479 228 491 241; x_wconf 96'>開</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 494 227 516 241; x_wconf 96'>發</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 517 228 541 241; x_wconf 96'>股份</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 544 228 556 242; x_wconf 92'>有</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 559 229 572 241; x_wconf 92'>限</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 575 228 603 241; x_wconf 95'>公司</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 709 229 759 239; x_wconf 81'>12685267</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 857 229 896 242; x_wconf 84'>50,00!</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1022 229 1035 243; x_wconf 96'>是</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1073 229 1102 243; x_wconf 2'>臺北</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1105 229 1119 243; x_wconf 96'>市</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1123 230 1134 242; x_wconf 96'>內</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1138 229 1167 243; x_wconf 96'>湖區</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 123 255 1167 273; baseline 0.003 -5; x_size 18.454544; x_descenders 4.454545; x_ascenders 4.454546">
+      <span class='ocrx_word' id='word_1_131' title='bbox 123 255 130 266; x_wconf 88'>2</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 169 255 239 268; x_wconf 88'>103/10/01</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 0 0 1240 1753; x_wconf 94'>|</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 270 255 299 269; x_wconf 84'>營利</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 302 255 331 270; x_wconf 96'>事業</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 334 256 364 270; x_wconf 96'>捐贈</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 366 257 380 270; x_wconf 96'>收入</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 0 0 1240 1753; x_wconf 86'>|</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 415 256 428 270; x_wconf 90'>慶</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 430 256 444 271; x_wconf 21'>耀</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 447 256 476 271; x_wconf 88'>營造</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 479 257 492 271; x_wconf 93'>有</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 494 257 508 270; x_wconf 93'>限</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 510 257 538 271; x_wconf 96'>公司</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 707 259 759 268; x_wconf 70'>84789776</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 857 258 896 272; x_wconf 50'>50,00!</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1021 258 1035 272; x_wconf 96'>是</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1073 258 1119 273; x_wconf 85'>臺北</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 0 0 1240 1753; x_wconf 96'>市</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1123 258 1133 272; x_wconf 96'>中</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1139 259 1167 272; x_wconf 96'>山區</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 692 185 695 278">
+    <p class='ocr_par' id='par_1_13' lang='chi_tra' title="bbox 692 185 695 278">
+     <span class='ocr_line' id='line_1_16' title="bbox 692 185 695 278; baseline 0 0; x_size 46.5; x_descenders -23.25; x_ascenders 23.25">
+      <span class='ocrx_word' id='word_1_152' title='bbox 692 185 695 278; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 807 186 810 278">
+    <p class='ocr_par' id='par_1_14' lang='chi_tra' title="bbox 807 186 810 278">
+     <span class='ocr_line' id='line_1_17' title="bbox 807 186 810 278; baseline 0 0; x_size 46; x_descenders -23; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_153' title='bbox 807 186 810 278; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 904 186 906 278">
+    <p class='ocr_par' id='par_1_15' lang='chi_tra' title="bbox 904 186 906 278">
+     <span class='ocr_line' id='line_1_18' title="bbox 904 186 906 278; baseline 0 0; x_size 46; x_descenders -23; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_154' title='bbox 904 186 906 278; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_15' title="bbox 1001 186 1003 279">
+    <p class='ocr_par' id='par_1_16' lang='chi_tra' title="bbox 1001 186 1003 279">
+     <span class='ocr_line' id='line_1_19' title="bbox 1001 186 1003 279; baseline 0 0; x_size 46.5; x_descenders -23.25; x_ascenders 23.25">
+      <span class='ocrx_word' id='word_1_155' title='bbox 1001 186 1003 279; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_16' title="bbox 1054 186 1057 279">
+    <p class='ocr_par' id='par_1_17' lang='chi_tra' title="bbox 1054 186 1057 279">
+     <span class='ocr_line' id='line_1_20' title="bbox 1054 186 1057 279; baseline 0 0; x_size 46.5; x_descenders -23.25; x_ascenders 23.25">
+      <span class='ocrx_word' id='word_1_156' title='bbox 1054 186 1057 279; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_17' title="bbox 1173 187 1176 279">
+    <p class='ocr_par' id='par_1_18' lang='chi_tra' title="bbox 1173 187 1176 279">
+     <span class='ocr_line' id='line_1_21' title="bbox 1173 187 1176 279; baseline 0 0; x_size 46; x_descenders -23; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_157' title='bbox 1173 187 1176 279; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_18' title="bbox 97 272 1175 279">
+    <p class='ocr_par' id='par_1_19' lang='chi_tra' title="bbox 97 272 1175 279">
+     <span class='ocr_line' id='line_1_22' title="bbox 97 272 1175 279; baseline 0 0; x_size 3.5; x_descenders -1.75; x_ascenders 1.75">
+      <span class='ocrx_word' id='word_1_158' title='bbox 97 272 1175 279; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_19' title="bbox 151 815 884 833">
+    <p class='ocr_par' id='par_1_20' lang='chi_tra' title="bbox 151 815 884 833">
+     <span class='ocr_line' id='line_1_23' title="bbox 151 815 884 833; baseline 0.004 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_159' title='bbox 151 816 165 830; x_wconf 92'>本</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 167 816 181 830; x_wconf 81'>件</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 185 815 222 830; x_wconf 89'>資料</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 221 816 230 830; x_wconf 93'>係</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 232 817 246 829; x_wconf 93'>依</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 250 816 278 831; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 280 818 294 829; x_wconf 96'>人</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 297 818 310 830; x_wconf 96'>網</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 312 818 326 830; x_wconf 96'>路</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 331 816 359 831; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 362 817 374 831; x_wconf 0'>賣</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 377 817 391 831; x_wconf 84'>料</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 394 817 407 832; x_wconf 96'>或</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 410 817 423 831; x_wconf 96'>其</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 428 817 456 832; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 458 820 472 831; x_wconf 93'>之</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 474 819 488 831; x_wconf 92'>紙</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 490 818 504 832; x_wconf 95'>本</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 507 817 552 832; x_wconf 92'>資料</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 0 0 1240 1753; x_wconf 92'>建</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 555 818 568 832; x_wconf 92'>檔</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 571 818 600 833; x_wconf 79'>產</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 0 0 1240 1753; x_wconf 93'>製</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 608 823 611 827; x_wconf 92'>,</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 619 819 632 831; x_wconf 92'>如</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 635 819 647 833; x_wconf 96'>有</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 650 819 680 832; x_wconf 92'>錯誤</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 688 824 690 828; x_wconf 82'>,</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 699 821 711 831; x_wconf 91'>以</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 716 818 744 833; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 747 820 760 831; x_wconf 96'>人</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 765 818 793 833; x_wconf 96'>申報</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 795 821 809 832; x_wconf 96'>之</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 812 819 841 833; x_wconf 95'>資料</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 843 819 873 833; x_wconf 93'>為</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 0 0 1240 1753; x_wconf 92'>準</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 880 824 884 828; x_wconf 92'>。</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
