@@ -39,7 +39,7 @@ foreach(glob(__DIR__ . '/xlsx/*.xlsx') AS $xlsFile) {
     for($j = 1; $j <= 9; $j++) {
       $line[] = $worksheet->getCellByColumnAndRow($j, $i)->getValue();
     }
-    if(!empty($line[0])) {
+    if(!empty($line[2])) {
       $lineSum += $line[5];
       ++$lineCount;
       fputcsv($fh, $line);
